@@ -1,0 +1,4 @@
+discord
+tinydb
+asyncio
+praw
