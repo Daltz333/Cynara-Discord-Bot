@@ -1,6 +1,7 @@
 # Cynara-Discord-Bot
 ### Requirements
-```pip install asyncio tinydb discord[voice] praw```  
+```pip install asyncio tinydb discord[voice] praw youtube-dl```
+```sudo apt-get install ffmpeg libopus-dev libffi-dev libsodium-dev```
 ```python 3.5 or greater```
 
 ### Running
